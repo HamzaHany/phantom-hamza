@@ -24,6 +24,7 @@ div.joinnavbar {
 div.navbar a {
     color: white;
     margin: 20px;
+    text-decoration: none;
 }
 div.navbar a.join {
     padding: 10px;
